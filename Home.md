@@ -4,15 +4,14 @@ Its goal is to gather any information useful to its members: link to existing re
 * Members: see the wall in the lobby, and add your tile!
 * Projects: see the presentation book in the eletronics area. Be welcome to add your project!
 * Pictures of past projects: please send some pictures of your projects to the Fabmanager.
+* Your first project: Nametag to hang on the 3D printer when it's working for you (so we know who to warn in case of a problem):
+  * print `accroche.stl`
+  * engrave a 40x60mm wooden board with at least name and email (get inspiration from the existing ones)
 
 ## Resources
 * [Machines manuals](Manuals)
 * [Tips](tips)
-* Nametag to hang on the 3D printer when it's working for you (so we know who to warn in case of a problem):
-  * print `accroche.stl`
-  * engrave a 40x60mm wooden board with at least name and email (get inspiration from the existing ones)
-
-## Link to other projects
+* [Links](Links)
 
 ## Questions
 ### Printing with .1mm

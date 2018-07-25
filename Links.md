@@ -1,0 +1,2 @@
+* [RFF: réseau français des fablabs](http://www.fablab.fr/)
+* [Fab 14](http://fab14.org): past international conference of fablabs. 14th edition was in France (2019 Egypt, 2020 Montréal, 2021 Bhutan). 

@@ -10,8 +10,8 @@ Its goal is to gather any information useful to its members: link to existing re
 
 ## Resources
 * [Machines manuals](Manuals.md)
-* [Tips](tips)
-* [Links](Links)
+* [Tips](Tips.md)
+* [Links](Links.md)
 
 ## Questions
 ### Printing with .1mm

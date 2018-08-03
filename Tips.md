@@ -1,6 +1,13 @@
 *Organisation*
 
-Don't forget your USB key when leaving the fablab.
+Don't forget your USB key when leaving X-Fab.
+
+*Dimensions*
+
+There is a high chance that the final dimensions will differ from the one you defined with your CAD software. 
+With the laser this is called burn factor or kerf. Depending on the power the laser will scrape more or less material.
+With the 3D printers this will depend on the calibration of the machine.
+In order to correct those it is recommanded to model parametrically.
 
 *Laser*
 
@@ -8,6 +15,7 @@ Opening an svg file in Corel Draw to send to the laser cutter: make sure there i
 Burn marks on lasercut wood: masking tape may help also the orange soap could clean them afterwards.
 Make sure the dimension in Corel are the one of the laser working surface (Epilog: 60x30 cm) otherwise your cuts will be shifted.
 0.1 and thin line thickness define the cut.
+
 
 *Ultimaker*
 
@@ -47,3 +55,17 @@ Select Custm3  and tune the following parameters are:
 - material flow 140%
 - printing speed 30 mm/s
 - displacemnt speed 60 mm/s
+
+*Glass fiber*
+
+ [Polypropylene loaded with glassfiber](http://www.ocvreinforcements.com/pdf/library/XSTRAND_3D_Range_product_sheet_Rev2_January_2018.pdf)was successfully printed with an UpBox
+
+*Wood-loaded PLA printing*
+
+*CIF CNC*
+
+This machine is delicate, users should be trained individually before operating it. The Z is done using the multimeter. Use double scotch tape to fix your sheet. Make sure the sheet is horizontal (no overlaping tape). If the paths are not well isolated, do not hesitate to mill several times with the Magnetoscope option.
+
+*Charly CNC*
+
+A damaged mesh could result in vibrations. Use plexi, double face scotch and wood spacer to block your material. Don't forget to switch the pressure arrival off when stopping. Select Avalant to mill the borders. 

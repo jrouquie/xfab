@@ -12,6 +12,7 @@ Its goal is to gather any information useful to its members: link to existing re
 * [Machines manuals](Manuals.md)
 * [Tips](Tips.md)
 * [Links](Links.md)
+* [New user doc](New user doc.md)
 
 ## Questions
 ### Printing with .1mm

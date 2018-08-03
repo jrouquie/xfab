@@ -75,3 +75,4 @@ Sur les logiciels
 * L'âge du Faire de Michel Lallemand 
 * Make Space de Scott Doorley et Scott Witthoft
 * Rasperry Pi Le guide de l'utilisateur de Eben Upton et Gareth Halfacree
+* Fab de Neil Gershenfeld

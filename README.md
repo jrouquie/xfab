@@ -19,3 +19,5 @@ Its goal is to gather any information useful to its members: link to existing re
 On the upbox 3D printers, printing with a layer thickness of .1mm almost always results in jamming. Does anyone know how to get to this level of detail, what works and what doesn't?
 ### White engraving
 On the laser cutter, how do I get a white area when engraving blue acrylic? 
+### Missing items
+Where did the brushs go?

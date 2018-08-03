@@ -58,7 +58,7 @@ Select Custm3  and tune the following parameters are:
 
 *Glass fiber*
 
- [Polypropylene loaded with glassfiber](http://www.ocvreinforcements.com/pdf/library/XSTRAND_3D_Range_product_sheet_Rev2_January_2018.pdf)was successfully printed with an UpBox
+ [Polypropylene loaded with glassfiber](http://www.ocvreinforcements.com/pdf/library/XSTRAND_3D_Range_product_sheet_Rev2_January_2018.pdf) was successfully printed with an UpBox
 
 *Wood-loaded PLA printing*
 

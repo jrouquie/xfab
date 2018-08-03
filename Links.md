@@ -70,8 +70,8 @@ Sur les logiciels
 [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg)
 [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s)
 
-## Livres disponible et recommandés
+## Livres disponibles et recommandés
 
-L'âge du Faire de Michel Lallemand 
-Make Space de Scott Doorley et Scott Witthoft
-Rasperry Pi Le guide de l'utilisateur de Eben Upton et Gareth Halfacree
+* L'âge du Faire de Michel Lallemand 
+* Make Space de Scott Doorley et Scott Witthoft
+* Rasperry Pi Le guide de l'utilisateur de Eben Upton et Gareth Halfacree

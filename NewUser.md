@@ -3,3 +3,5 @@
 * This [file](https://github.com/jrouquie/xfab/blob/master/Intro_pdf.pdf) summarizes the key information from your training.
 
 * Here is a brief security check up, please don't by-pass your health will thank you for that: [Be safe](https://github.com/jrouquie/xfab/blob/master/Secu_pdf.pdf)
+
+* Before you go to the electronics benches please have a look to [this](https://github.com/jrouquie/xfab/blob/master/Electronics_pdf.pdf)

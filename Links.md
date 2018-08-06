@@ -70,6 +70,9 @@ Sur les logiciels
 [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg)
 [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s)
 
+Sur les drones
+[Lego](https://youtu.be/_fZRF9fvoOk)
+
 ## Livres disponibles et recommandés
 
 * L'âge du Faire de Michel Lallemand 

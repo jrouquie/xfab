@@ -6,7 +6,7 @@
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)
 
 ## Designs
-[boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), [thenounproject](https://thenounproject.com/)
+[boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), [thenounproject](https://thenounproject.com/), [pinterest](https://www.pinterest.fr/)
 
 ## Videos pour inspiration (diffusées sur l'écran dans X-Fab)
 
@@ -76,3 +76,11 @@ Sur les logiciels
 * Make Space de Scott Doorley et Scott Witthoft
 * Rasperry Pi Le guide de l'utilisateur de Eben Upton et Gareth Halfacree
 * Fab de Neil Gershenfeld
+
+
+## Newsletter auxquelles s'abonner
+
+* [all3dp](https://all3dp.us9.list-manage.com/subscribe?u=f9a114a84ecd17b3bfdcf916e&id=9dffeeddae)
+* [sculpteo](https://www.sculpteo.com/en/newsletter_subscribe/)
+* [wevolver](https://wevolver.us2.list-manage.com/subscribe/post?u=b9b8a21a2438fd4fbe17aa6a9&id=0313187a58)
+

@@ -20,4 +20,4 @@ On the upbox 3D printers, printing with a layer thickness of .1mm almost always 
 ### White engraving
 On the laser cutter, how do I get a white area when engraving blue acrylic? 
 ### Missing items
-Where did the brushs go?
+

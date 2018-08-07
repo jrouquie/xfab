@@ -7,8 +7,8 @@
 
 Les avantages du verre acrylique coulé lors du traitement au laser CO2 :
 
-    Vous obtenez des arêtes de coupe optimales sans bavures.
-    L’acrylique GS permet de réaliser des gravures par le changement de couleur dans les zones gravées. Contrairement à l’acrylique XT, les gravures au laser sont plus contrastées ; on obtient par conséquent des résultats plus nets et un meilleur effet.
+Vous obtenez des arêtes de coupe optimales sans bavures.
+L’acrylique GS permet de réaliser des gravures par le changement de couleur dans les zones gravées. Contrairement à l’acrylique XT, les gravures au laser sont plus contrastées ; on obtient par conséquent des résultats plus nets et un meilleur effet.
 
 Les avantages du verre acrylique extrudé lors du traitement au laser CO₂
 
@@ -16,8 +16,8 @@ Pour la fabrication d’acrylique extrudé (XT), des granules sont amenés à fu
 
 Les avantages du verre acrylique extrudé lors du traitement au laser CO2 :
 
-    L’acrylique extrudé, comparé à l’acrylique coulé, présente nettement moins de tolérances d’épaisseur. Cette propriété peut avoir un effet positif sur la stabilité dimensionnelle de votre production.
-    L’acrylique XT est moins cher à l’achat, si bien que son utilisation est plus économique pour la fabrication en série." Eurolaser.com
+L’acrylique extrudé, comparé à l’acrylique coulé, présente nettement moins de tolérances d’épaisseur. Cette propriété peut avoir un effet positif sur la stabilité dimensionnelle de votre production.
+L’acrylique XT est moins cher à l’achat, si bien que son utilisation est plus économique pour la fabrication en série." Eurolaser.com
     
 * PLA
 * ABS

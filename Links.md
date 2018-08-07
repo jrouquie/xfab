@@ -69,6 +69,7 @@ Sur les logiciels
 [Logiciels 3D Fusion360](https://www.youtube.com/watch?v=beebJ6fgVPo) 
 [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg)
 [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s)
+[Optimization](https://www.youtube.com/watch?v=Yl2yluS7-_c)
 
 Sur les drones
 [Lego](https://youtu.be/_fZRF9fvoOk)

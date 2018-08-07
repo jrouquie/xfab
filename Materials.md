@@ -23,3 +23,7 @@ Les avantages du verre acrylique extrudé lors du traitement au laser CO2 :
 * ABS
 * PE
 * PP
+
+* E textile
+
+http://www.kobakant.at/DIY/

@@ -14,6 +14,7 @@ Its goal is to gather any information useful to its members: link to existing re
 * [Links](Links.md)
 * [New user](NewUser.md)
 * [Softwares](Softwares.md)
+* [Materials](Materials.md)
 
 ## Questions
 ### Printing with .1mm

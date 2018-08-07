@@ -13,6 +13,7 @@ Its goal is to gather any information useful to its members: link to existing re
 * [Tips](Tips.md)
 * [Links](Links.md)
 * [New user](NewUser.md)
+* [Softwares](Softwares.md)
 
 ## Questions
 ### Printing with .1mm

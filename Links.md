@@ -8,7 +8,8 @@
 
 ## Free designs
 * Inspiration: [pinterest](https://www.pinterest.fr/)
-* Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 2D design: [thenounproject](https://thenounproject.com/)
+* Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 
+* 2D design: [thenounproject](https://thenounproject.com/)
 * 3D print: [Thingiverse](https://www.thingiverse.com/) watch out some design can be customized, [cults3D](https://cults3d.com/fr)
 * Soft robots: [soft robotics](https://softroboticstoolkit.com/)
 * Furniture: [atFab](http://atfab.co/)

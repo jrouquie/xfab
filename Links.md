@@ -13,9 +13,9 @@ Soft robots: [soft robotics](https://softroboticstoolkit.com/)
 Furniture: [atFab](http://atfab.co/)
 
 ## Conception tools
-[lithophane](http://3dp.rocks/lithophane/)
-[metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
-[circuits](https://www.circuito.io/)
+* [3D printed lithophane](http://3dp.rocks/lithophane/)
+* [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
+* [circuits](https://www.circuito.io/)
 
 ## Inspiration videos (broadcasted on X-Fab screen)
 

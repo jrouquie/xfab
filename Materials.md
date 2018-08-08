@@ -27,3 +27,7 @@ L’acrylique XT est moins cher à l’achat, si bien que son utilisation est pl
 * E textile
 
 http://www.kobakant.at/DIY/
+
+* Self made
+
+www.materiom.org/

@@ -1,5 +1,6 @@
 * [RFF: réseau français des fablabs](http://www.fablab.fr/)
 * [Fab 14](http://fab14.org): past international conference of fablabs. 14th edition was in France (2019 Egypt, 2020 Montréal, 2021 Bhutan). 
+* [Plateau de Saclay](https://www.pluginlabs-universiteparissaclay.fr/fr/results/keywords/FabLab)
 
 ## Where to buy materials
 * [Leroy Merlin](http://leroymerlin.fr): some boards for the laser (wood, very limited choice of acrylic)

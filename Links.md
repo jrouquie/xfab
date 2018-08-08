@@ -6,8 +6,16 @@
 * [Leroy Merlin](http://leroymerlin.fr): some boards for the laser (wood, very limited choice of acrylic)
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)
 
-## Designs
-[boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), [thenounproject](https://thenounproject.com/), [pinterest](https://www.pinterest.fr/), [soft robotics](https://softroboticstoolkit.com/), [atFab](http://atfab.co/), [lithophane](http://3dp.rocks/lithophane/), [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
+## Free designs
+Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 2D design: [thenounproject](https://thenounproject.com/)
+Inspiration: [pinterest](https://www.pinterest.fr/)
+Soft robots: [soft robotics](https://softroboticstoolkit.com/)
+Furniture: [atFab](http://atfab.co/)
+
+## Conception tools
+[lithophane](http://3dp.rocks/lithophane/)
+[metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
+[circuits](https://www.circuito.io/)
 
 ## Inspiration videos (broadcasted on X-Fab screen)
 

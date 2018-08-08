@@ -16,6 +16,7 @@ Furniture: [atFab](http://atfab.co/)
 * [3D printed lithophane](http://3dp.rocks/lithophane/)
 * [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
 * [circuits](https://www.circuito.io/)
+* [IoT] (https://www.blynk.cc/)
 
 ## Inspiration videos (broadcasted on X-Fab screen)
 

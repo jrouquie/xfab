@@ -73,6 +73,7 @@ Softwares:
 
 Drones:
 [Lego](https://youtu.be/_fZRF9fvoOk)
+[3D printing drone](https://video.dailymail.co.uk/video/1418450360/2014/05/1418450360_3547102603001_Prinitng-helicopter.mp4)
 
 ## Available and approved books
 

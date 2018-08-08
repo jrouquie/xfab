@@ -7,16 +7,16 @@
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)
 
 ## Free designs
-Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 2D design: [thenounproject](https://thenounproject.com/)
-Inspiration: [pinterest](https://www.pinterest.fr/)
-Soft robots: [soft robotics](https://softroboticstoolkit.com/)
-Furniture: [atFab](http://atfab.co/)
+* Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 2D design: [thenounproject](https://thenounproject.com/)
+* Inspiration: [pinterest](https://www.pinterest.fr/)
+* Soft robots: [soft robotics](https://softroboticstoolkit.com/)
+* Furniture: [atFab](http://atfab.co/)
 
 ## Conception tools
 * [3D printed lithophane](http://3dp.rocks/lithophane/)
 * [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
 * [circuits](https://www.circuito.io/)
-* [IoT] (https://www.blynk.cc/)
+* [IoT](https://www.blynk.cc/)
 
 ## Inspiration videos (broadcasted on X-Fab screen)
 

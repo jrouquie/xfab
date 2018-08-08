@@ -13,3 +13,4 @@ Free licences for students
 * Adobe Suite
 
 * PE design
+* KeyShot

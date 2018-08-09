@@ -1,6 +1,6 @@
 * SolidWorks
-
 * Fusion 360
+* [OpenScad](http://openscad.org/)
 
 Free licences for students
 
@@ -12,5 +12,5 @@ Free licences for students
 
 * Adobe Suite
 
-* PE design
+* PE design (embroidery)
 * KeyShot

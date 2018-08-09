@@ -1,6 +1,7 @@
 * SolidWorks
 * Fusion 360
 * [OpenScad](http://openscad.org/)
+* [Blender](https://www.blender.org/) More geared towards 3D animation, but can export .stl.
 
 Free licences for students
 

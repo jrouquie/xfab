@@ -20,7 +20,7 @@
 * [circuits](https://www.circuito.io/)
 * [IoT](https://www.blynk.cc/)
 
-## Inspiration videos (broadcasted on X-Fab screen)
+## Inspirational videos (broadcasted on X-Fab screen)
 
 3-4-5D printing:
 [Laser sintering](https://www.youtube.com/watch?v=rEfdO4p4SFc),
@@ -48,6 +48,7 @@ Textile:
 
 Robotic:
 [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)
+[Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
 
 Microfluidics:
 [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)

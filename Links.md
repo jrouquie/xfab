@@ -100,4 +100,5 @@ Drones:
 * [all3dp](https://all3dp.us9.list-manage.com/subscribe?u=f9a114a84ecd17b3bfdcf916e&id=9dffeeddae)
 * [sculpteo](https://www.sculpteo.com/en/newsletter_subscribe/)
 * [wevolver](https://wevolver.us2.list-manage.com/subscribe/post?u=b9b8a21a2438fd4fbe17aa6a9&id=0313187a58)
+* [mashable](https://mashable.com/newsletters/?europe=true)
 

@@ -7,7 +7,7 @@
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)
 
 ## Free designs
-* Inspiration: [pinterest](https://www.pinterest.fr/)
+* Inspiration: [pinterest](https://www.pinterest.fr/), [Ouiaremakers](https://ouiaremakers.com/)
 * Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 
 * 2D design: [thenounproject](https://thenounproject.com/)
 * 3D print: [Thingiverse](https://www.thingiverse.com/) watch out some design can be customized, [cults3D](https://cults3d.com/fr)
@@ -41,6 +41,7 @@
 [Impression 4D magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
 [Impression 4D ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
 [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
+[e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
@@ -71,6 +72,8 @@ Electronics:
 
 Prototyping spaces:
 [MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)
+
+
 
 CNC:
 [CNC](https://www.youtube.com/watch?v=Xo0CiJjTGJE&t=36s)
@@ -103,3 +106,5 @@ Drones:
 * [wevolver](https://wevolver.us2.list-manage.com/subscribe/post?u=b9b8a21a2438fd4fbe17aa6a9&id=0313187a58)
 * [mashable](https://mashable.com/newsletters/?europe=true)
 
+
+## MOOCs

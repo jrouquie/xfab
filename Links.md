@@ -43,6 +43,7 @@
 [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
 [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
 [Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)
+[Bioelectronics](https://www.youtube.com/watch?v=SGLv4XoiLo8)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

@@ -42,6 +42,7 @@
 [Impression 4D ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
 [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
 [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
+[Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

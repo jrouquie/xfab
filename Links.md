@@ -44,6 +44,7 @@
 [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
 [Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)
 [Bioelectronics](https://www.youtube.com/watch?v=U2_zhpXZkS0&feature=youtu.be)
+[Animation Hydrophites](https://www.youtube.com/watch?v=e008jxkAQ-4)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

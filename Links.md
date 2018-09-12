@@ -76,8 +76,6 @@ Electronics:
 Prototyping spaces:
 [MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)
 
-
-
 CNC:
 [CNC](https://www.youtube.com/watch?v=Xo0CiJjTGJE&t=36s)
 
@@ -93,6 +91,9 @@ Softwares:
 Drones:
 [Lego](https://youtu.be/_fZRF9fvoOk)
 [3D printing drone](https://video.dailymail.co.uk/video/1418450360/2014/05/1418450360_3547102603001_Prinitng-helicopter.mp4)
+
+Molding/Casting:
+[3D molds](https://www.youtube.com/watch?time_continue=184&v=7M2TbQnRLNg)
 
 ## Available and approved books
 

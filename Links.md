@@ -46,6 +46,7 @@
 [Bioelectronics](https://www.youtube.com/watch?v=U2_zhpXZkS0&feature=youtu.be)
 [Animation Hydrophites](https://www.youtube.com/watch?v=e008jxkAQ-4)
 [BeAm](https://www.youtube.com/watch?v=Pjqysyy1ySs)
+[Metal printing + milling](https://www.youtube.com/watch?v=ALYMW7HrUtA)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

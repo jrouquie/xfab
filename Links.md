@@ -37,9 +37,9 @@
 [Bone graft printing](https://www.youtube.com/watch?v=6PS2CgmByNs),
 [Textile + 3D print](https://www.youtube.com/watch?v=gPFXciGoarI),
 [Flexible circuit 3Dprint](https://www.youtube.com/watch?v=oShku31xpWk&t=77s),
-[Impression 4D dress](https://www.youtube.com/watch?v=wdRswasftfI),
-[Impression 4D magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
-[Impression 4D ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
+[4D print dress](https://www.youtube.com/watch?v=wdRswasftfI),
+[4D print magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
+[4D print ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
 [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
 [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
 [Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)

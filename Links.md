@@ -101,6 +101,13 @@ Molding/Casting:
 IoT:
 [Blynk platform](https://www.youtube.com/watch?v=hipyrhJIgGk)
 
+Drawbots:
+[Heart](https://www.youtube.com/watch?v=tDk_mtMQXWQ)
+[Vertical](https://www.youtube.com/watch?v=gOfilYT365M)
+
+Numerical art:
+[Processing](https://www.youtube.com/watch?v=IR63rgMqClE)
+
 ## Available and approved books
 
 * L'âge du Faire de Michel Lallemand 

@@ -98,6 +98,9 @@ Drones:
 Molding/Casting:
 [3D molds](https://www.youtube.com/watch?time_continue=184&v=7M2TbQnRLNg)
 
+IoT:
+[Blynk platform](https://www.youtube.com/watch?v=hipyrhJIgGk)
+
 ## Available and approved books
 
 * L'âge du Faire de Michel Lallemand 

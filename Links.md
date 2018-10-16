@@ -48,6 +48,8 @@
 [BeAm](https://www.youtube.com/watch?v=Pjqysyy1ySs)
 [Metal printing + milling](https://www.youtube.com/watch?v=ALYMW7HrUtA)
 [3D print PCB](https://www.youtube.com/watch?time_continue=59&v=PeW1nURJ5ww)
+[Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
+[Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

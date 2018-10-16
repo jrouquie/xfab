@@ -50,6 +50,7 @@
 [3D print PCB](https://www.youtube.com/watch?time_continue=59&v=PeW1nURJ5ww)
 [Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
 [Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
+[Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

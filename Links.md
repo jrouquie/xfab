@@ -59,6 +59,7 @@ Textile:
 Robotic:
 [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)
 [Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
+[Large kinetic with platic bottles](https://www.youtube.com/watch?time_continue=207&v=uqOLVrR7FTo)
 
 Microfluidics:
 [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)

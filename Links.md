@@ -51,6 +51,7 @@
 [Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
 [Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
 [Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
+[Magnet printing Heart](https://www.youtube.com/watch?v=Fy_xBKXITI4)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

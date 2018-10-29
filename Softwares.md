@@ -2,7 +2,7 @@
 * Fusion 360 Free licences for students
 * [OpenScad](http://openscad.org/)
 * [Blender](https://www.blender.org/) More geared towards 3D animation, but can export .stl.
-* Rhino
+* Rhinoceros (Grasshopper embedded)
 * Generate Frustum 100 topological optimizations/months
 * Adobe Suite
 * PE design (embroidery)

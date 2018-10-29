@@ -142,3 +142,4 @@ Numerical art:
 ## Websites
 
 * [SketchFab](https://sketchfab.com/) 
+* [3DHubs- CNC machining](https://www.3dhubs.com/guides/cnc-machining/?utm_campaign=Subscriber&utm_source=hs_automation&utm_medium=email&utm_content=66612850&_hsenc=p2ANqtz-8jhk4jgWYar3cl2eg6xvVSN3WtUSDOEeibVl3mfhGWYhXZEC8Wtjx6-yfhYwWBiXOpIkyH2L98RrM3yy_0MJQlDmt_c-29a3LtORzAlvWwQq3Mm6c&_hsmi=66612850)

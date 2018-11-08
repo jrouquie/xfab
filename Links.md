@@ -53,6 +53,7 @@
 [Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
 [Magnet printing Heart](https://www.youtube.com/watch?v=Fy_xBKXITI4)
 [Thermoplastique electroformable Loma](https://www.youtube.com/watch?v=cApimMVc2BY)
+[3D printed instrument](https://www.youtube.com/watch?time_continue=63&v=xcLR6xwYpkA)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

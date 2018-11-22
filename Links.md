@@ -55,6 +55,7 @@
 [Thermoplastique electroformable Loma](https://www.youtube.com/watch?v=cApimMVc2BY)
 [3D printed instrument](https://www.youtube.com/watch?time_continue=63&v=xcLR6xwYpkA)
 [Solvent cast](https://www.youtube.com/watch?time_continue=39&v=z036i7xZPcg)
+[Spring print](https://www.youtube.com/watch?time_continue=55&v=kWE8AzJY8qc)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

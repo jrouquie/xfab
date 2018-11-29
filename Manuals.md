@@ -20,3 +20,9 @@
 
 ## CNC
 * [CharlyRobot Mayka](http://www.picasoft.com/download/Mayka6/eng_Manual.pdf)
+
+## CNC electronics
+* [Galaad](http://www.galaad.net/Galaad-Fra.pdf)
+
+## Thermoforming
+* [Formech 508 FS](https://formech.com/wp-content/uploads/Manual-508DTFS_UK_070116_lowres.pdf)

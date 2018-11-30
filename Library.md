@@ -23,6 +23,8 @@ You can borrow those books:
 
 ## Programming
 - Processing, J-M. Géridan & J-N. Lafargue, Dunod
+- Raspberry Pi - Prise en main, Dunod
+- A la découverte du Raspberry Pi, Eyrolles
 
 ## Modelling
 - Solidworks 2017, eni

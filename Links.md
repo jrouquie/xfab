@@ -20,6 +20,7 @@
 * [circuits](https://www.circuito.io/)
 * [IoT](https://www.blynk.cc/)
 * [Topological optimization](http://www.topopt.mek.dtu.dk/apps-and-software)
+* [Giant bottle structures](https://hpi.de/baudisch/projects/trussfab.html)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 

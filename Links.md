@@ -19,6 +19,7 @@
 * [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
 * [circuits](https://www.circuito.io/)
 * [IoT](https://www.blynk.cc/)
+* [Topological optimization](http://www.topopt.mek.dtu.dk/apps-and-software)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 

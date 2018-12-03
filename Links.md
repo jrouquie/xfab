@@ -154,3 +154,4 @@ Numerical art:
 * [Learn to CNC with Titans of CNC](http://academy.titansofcnc.com/series/titanfundamentals)
 * [CNC tips with Fusion](https://www.nyccnc.com/)
 * [MakeFast Workshop](http://makefastworkshop.com/hacks/)
+* [Fabricademy](https://textile-academy.org/)

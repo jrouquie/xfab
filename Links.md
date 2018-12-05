@@ -64,6 +64,7 @@ Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
 [Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
 [Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
+[Textile speaker](https://vimeo.com/205792057)
 
 Robotic:
 [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)

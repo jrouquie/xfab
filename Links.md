@@ -13,6 +13,7 @@
 * 3D print: [Thingiverse](https://www.thingiverse.com/) watch out some design can be customized, [cults3D](https://cults3d.com/fr)
 * Soft robots: [soft robotics](https://softroboticstoolkit.com/)
 * Furniture: [atFab](http://atfab.co/)
+* Ceramics: [Ceramic commons](http://ceramiccommons.com/downloads/)
 
 ## Conception tools
 * [3D printed lithophane](http://3dp.rocks/lithophane/)

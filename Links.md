@@ -159,3 +159,5 @@ Numerical art:
 * [CNC tips with Fusion](https://www.nyccnc.com/)
 * [MakeFast Workshop](http://makefastworkshop.com/hacks/)
 * [Fabricademy](https://textile-academy.org/)
+* [Prusa research](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg)
+

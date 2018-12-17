@@ -61,6 +61,7 @@
 [Spring print](https://www.youtube.com/watch?time_continue=55&v=kWE8AzJY8qc)
 [3D Painting](https://www.youtube.com/watch?time_continue=37&v=yZ9ApVHx7Ow)
 [Support Meshmixer](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
+[Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

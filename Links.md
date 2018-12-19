@@ -13,12 +13,15 @@
 * 3D print: [Thingiverse](https://www.thingiverse.com/) watch out some design can be customized, [cults3D](https://cults3d.com/fr)
 * Soft robots: [soft robotics](https://softroboticstoolkit.com/)
 * Furniture: [atFab](http://atfab.co/)
+* Ceramics: [Ceramic commons](http://ceramiccommons.com/downloads/)
 
 ## Conception tools
 * [3D printed lithophane](http://3dp.rocks/lithophane/)
 * [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
 * [circuits](https://www.circuito.io/)
 * [IoT](https://www.blynk.cc/)
+* [Topological optimization](http://www.topopt.mek.dtu.dk/apps-and-software)
+* [Giant bottle structures](https://hpi.de/baudisch/projects/trussfab.html)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 
@@ -48,14 +51,28 @@
 [BeAm](https://www.youtube.com/watch?v=Pjqysyy1ySs)
 [Metal printing + milling](https://www.youtube.com/watch?v=ALYMW7HrUtA)
 [3D print PCB](https://www.youtube.com/watch?time_continue=59&v=PeW1nURJ5ww)
+[Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
+[Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
+[Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
+[Magnet printing Heart](https://www.youtube.com/watch?v=Fy_xBKXITI4)
+[Thermoplastique electroformable Loma](https://www.youtube.com/watch?v=cApimMVc2BY)
+[3D printed instrument](https://www.youtube.com/watch?time_continue=63&v=xcLR6xwYpkA)
+[Solvent cast](https://www.youtube.com/watch?time_continue=39&v=z036i7xZPcg)
+[Spring print](https://www.youtube.com/watch?time_continue=55&v=kWE8AzJY8qc)
+[3D Painting](https://www.youtube.com/watch?time_continue=37&v=yZ9ApVHx7Ow)
+[Support Meshmixer](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
+[Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
 [Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
+[Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
+[Textile speaker](https://vimeo.com/205792057)
 
 Robotic:
 [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)
 [Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
+[Large kinetic with platic bottles](https://www.youtube.com/watch?time_continue=207&v=uqOLVrR7FTo)
 
 Microfluidics:
 [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)
@@ -122,6 +139,7 @@ Numerical art:
 * [sculpteo](https://www.sculpteo.com/en/newsletter_subscribe/)
 * [wevolver](https://wevolver.us2.list-manage.com/subscribe/post?u=b9b8a21a2438fd4fbe17aa6a9&id=0313187a58)
 * [mashable](https://mashable.com/newsletters/?europe=true)
+* [3DHubs](https://www.3dhubs.com/)
 
 
 ## MOOCs
@@ -137,3 +155,10 @@ Numerical art:
 ## Websites
 
 * [SketchFab](https://sketchfab.com/) 
+* [3DHubs- CNC machining](https://www.3dhubs.com/guides/cnc-machining/?utm_campaign=Subscriber&utm_source=hs_automation&utm_medium=email&utm_content=66612850&_hsenc=p2ANqtz-8jhk4jgWYar3cl2eg6xvVSN3WtUSDOEeibVl3mfhGWYhXZEC8Wtjx6-yfhYwWBiXOpIkyH2L98RrM3yy_0MJQlDmt_c-29a3LtORzAlvWwQq3Mm6c&_hsmi=66612850)
+* [Learn to CNC with Titans of CNC](http://academy.titansofcnc.com/series/titanfundamentals)
+* [CNC tips with Fusion](https://www.nyccnc.com/)
+* [MakeFast Workshop](http://makefastworkshop.com/hacks/)
+* [Fabricademy](https://textile-academy.org/)
+* [Prusa research](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg)
+

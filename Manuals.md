@@ -16,3 +16,13 @@
 * [PE Design (software)](http://download.brother.com/welcome/doch100145/pedesign10im01en.pdf)
 * [machine manuals](http://support.brother.com/g/b/manualtop.aspx?c=eu_ot&lang=en&prod=hf_vr_euk)
 * [Sewing machine](http://www.pfaff.com/SiteMedia/PFAFF/Products/Machines/Support-manuals/ambition_manual_EN.pdf)
+
+
+## CNC
+* [CharlyRobot Mayka](http://www.picasoft.com/download/Mayka6/eng_Manual.pdf)
+
+## CNC electronics
+* [Galaad](http://www.galaad.net/Galaad-Fra.pdf)
+
+## Thermoforming
+* [Formech 508 FS](https://formech.com/wp-content/uploads/Manual-508DTFS_UK_070116_lowres.pdf)

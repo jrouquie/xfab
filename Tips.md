@@ -4,17 +4,22 @@ Don't forget your USB key when leaving X-Fab.
 
 ## Dimensions
 
-There is a high chance that the final dimensions will differ from the one you defined with your CAD software. 
-With the laser this is called burn factor or kerf. Depending on the power the laser will scrape more or less material.
-With the 3D printers this will depend on the calibration of the machine.
-In order to correct those it is recommanded to model parametrically.
+There is a high chance for the final dimensions to differ slightly from the one defined in the CAD software. In order to correct those it is recommanded to model parametrically.
 
-## Laser
+* laser: the cut has non-zero width, this is called burn factor or kerf. Depending on the power the laser will scrape more or less material.
+* 3D printer: this depends on the calibration of the machine.
+
+
+## Laser tips
 
 Opening an svg file in Corel Draw to send to the laser cutter: make sure there is no opacity/blur. Prefer plain svg to Inkscape svg format.
+
+Trotec: In jobControl, it's often impossible to select a job on the plate when it's only a thin line. One solution is in corel print options (before sending the job to jobControl): uncheck «minimize to job size».
+
 Burn marks on lasercut wood: masking tape may help also the orange soap could clean them afterwards.
-Make sure the dimension in Corel are the one of the laser working surface (Epilog: 60x30 cm) otherwise your cuts will be shifted.
-Lines having 0.1mm or "thin" as width are cut, larger lines are engraved.
+
+Make sure the dimension in Corel are the one of the laser working surface (Epilog: 304.8 x 609.6 mm) otherwise your cuts will be shifted.
+Lines of width 0.01 to 0.07 inch are cut, larger lines are engraved. Safe settings to have lines cut are 0.1mm or "thin line".
 
 Color mapping: it's safer to set the laser power to 0 in the default tab, so that unmapped colors won't fire the laser. In case of problems, see https://sawmillcreek.org/showthread.php?211156-Color-Mapping-Not-Overriding .
 
@@ -23,7 +28,7 @@ Color mapping: it's safer to set the laser power to 0 in the default tab, so tha
 
 Clean after yourself (support, extrusion test spirals) and make sure no plastic part falls under the plate.
 
-## Up
+## Upbox tips
 
 Those 3D printers are highly delicate, they decalibrate and get clogged really easily.
 Before launching your print make sure the plate temperature reached 80°. Center your model as much as possible. Be gentle to the plate.

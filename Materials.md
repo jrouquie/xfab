@@ -1,33 +1,27 @@
+# Materials
+## PMMA / Acrylique / Plexiglass
+Selon Eurolaser.com :
 
-* PMMA/ Acrylique/ Plexiglass
+* Coulé : L’acrylique coulé (GS) est fabriqué en coulant les matières premières liquides dans un moule, généralement en verres de miroir. Excellent aspect de surface. Lors du traitement au laser CO2, arêtes de coupe optimales sans bavures.
+Gravures au laser plus nettes et contrastées que l'acrylique XT.
 
-*Coulé ou extrudé
+* Extrudé : pour la fabrication d’acrylique extrudé (XT), des granules sont amenés à fusion dans une extrudeuse dotée de vis de rotation, qui forcent la matière à travers des buses de la forme souhaitée. Epaisseur bien plus précise que GS (stabilité dimensionnelle). Moins cher.
 
-"L’acrylique coulé (GS) est fabriqué en coulant les matières premières liquides dans un moule. Généralement, on utilise des verres de miroir pour le formage. L’acrylique coulé séduit par son excellent aspect de surface.
+## PLA
+## ABS
+## PE
+## PP
 
-Les avantages du verre acrylique coulé lors du traitement au laser CO2 :
-
-Vous obtenez des arêtes de coupe optimales sans bavures.
-L’acrylique GS permet de réaliser des gravures par le changement de couleur dans les zones gravées. Contrairement à l’acrylique XT, les gravures au laser sont plus contrastées ; on obtient par conséquent des résultats plus nets et un meilleur effet.
-
-Les avantages du verre acrylique extrudé lors du traitement au laser CO₂
-
-Pour la fabrication d’acrylique extrudé (XT), des granules sont amenés à fusion dans une extrudeuse dotée de vis de rotation. La coulée acrylique en résultant obtient la forme souhaitée grâce à des buses situées sur la sortie de l’extrudeuse.
-
-Les avantages du verre acrylique extrudé lors du traitement au laser CO2 :
-
-L’acrylique extrudé, comparé à l’acrylique coulé, présente nettement moins de tolérances d’épaisseur. Cette propriété peut avoir un effet positif sur la stabilité dimensionnelle de votre production.
-L’acrylique XT est moins cher à l’achat, si bien que son utilisation est plus économique pour la fabrication en série." Eurolaser.com
-    
-* PLA
-* ABS
-* PE
-* PP
-
-* E textile
+## E-textile
 
 http://www.kobakant.at/DIY/
 
-* Self made
+## Self made
 
 www.materiom.org/
+
+# Where to buy
+* [Matieres à graver](http://matieres-a-graver.fr/) Needs to create a pro account (pro email, Kbis, phone interview). More expensive than Leroy Merlin. Large choice. Owned by Trotec, thus guaranteed compatibility with their machines.
+* [Leroy Merlin](http://leroymerlin.fr): some boards for the laser (wood, very limited choice of acrylic: no colors)
+* [Castorama](https://www.castorama.fr/panneau-medium-haute-densite-hdf-244-x-122-cm-ep-3-mm/3663602183358_CAFR.prd) competitor to Leroy Merlin
+* Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)

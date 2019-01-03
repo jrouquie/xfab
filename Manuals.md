@@ -1,5 +1,5 @@
 ## 3D printing
-* [Cura (slicer software)](https://ultimaker.com/en/products/ultimaker-cura-software)
+* [Cura (slicer software)](https://ultimaker.com/en/products/ultimaker-cura-software) + [Cura Pro Tutorial](https://all3dp.us9.list-manage.com/track/click?u=f9a114a84ecd17b3bfdcf916e&id=2f884ba887&e=49fa0649b0)
 * [Ultimaker](https://ultimaker.com/en/resources/manuals/ultimaker-3d-printers)
 * [Simplify3D](https://www.simplify3d.com/wp-content/uploads/2014/06/S3D_QuickStartGuide_092314.pdf)
 * [Raise + IdeaMaker (slicer for the Raise)](https://cdn.shopify.com/s/files/1/1069/4816/files/N1_Quickstart_Guide.pdf?5369451401642770530)

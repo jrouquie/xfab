@@ -94,6 +94,7 @@ Prototyping spaces:
 
 CNC:
 [CNC](https://www.youtube.com/watch?v=Xo0CiJjTGJE&t=36s)
+[Gcode](https://all3dp.com/g-code-tutorial-3d-printer-gcode-commands/?omhide=true&utm_source=Newsletter&utm_campaign=7f59cde5ee-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-7f59cde5ee-400535557)
 
 Softwares:
 [Slicer for Fusion](https://www.youtube.com/watch?v=jIlvMttdtbw),

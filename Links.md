@@ -58,6 +58,7 @@
 [3D Painting](https://www.youtube.com/watch?time_continue=37&v=yZ9ApVHx7Ow)
 [Support Meshmixer](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
 [Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
+[Silicon](https://www.youtube.com/watch?time_continue=46&v=JIYb69iDeCI)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

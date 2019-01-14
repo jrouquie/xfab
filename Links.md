@@ -123,6 +123,10 @@ Drawbots:
 Numerical art:
 [Processing](https://www.youtube.com/watch?v=IR63rgMqClE)
 
+## Publications
+
+[3D printed microfluidic devices](https://ieeexplore.ieee.org/document/8492355?tp=&arnumber=8492355&filter%3DissueId%20EQ%20%228552520%22=)
+
 ## Available and approved books
 
 * L'âge du Faire de Michel Lallemand 

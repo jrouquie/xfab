@@ -89,6 +89,7 @@ Mecatronics:
 
 Electronics:
 [Printing electronics](https://www.youtube.com/watch?v=2qg5BXH1mPs&t=127s)
+[Electronic paint](https://www.youtube.com/watch?v=dKFRweXei90)
 
 Prototyping spaces:
 [MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)

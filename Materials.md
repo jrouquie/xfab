@@ -21,7 +21,8 @@ http://www.kobakant.at/DIY/
 www.materiom.org/
 
 # Where to buy
-* [Matieres à graver](http://matieres-a-graver.fr/) Needs to create a pro account (pro email, Kbis, phone interview). More expensive than Leroy Merlin. Large choice. Owned by Trotec, thus guaranteed compatibility with their machines.
+* [Matieres à graver](http://matieres-a-graver.fr/) Needs to create a pro account (pro email, Kbis, phone interview). More expensive than Leroy Merlin. Large choice. Owned by Trotec, thus guaranteed compatibility with their machines. Min order 40€.
+* For PMMA, untested: [polydis.fr](https://www.polydis.fr), [plexi-cindar.com](https://www.plexi-cindar.com), maybe [smide.fr](http://smide.fr/) (10min driving).
 * [Leroy Merlin](http://leroymerlin.fr): some boards for the laser (wood, very limited choice of acrylic: no colors)
 * [Castorama](https://www.castorama.fr/panneau-medium-haute-densite-hdf-244-x-122-cm-ep-3-mm/3663602183358_CAFR.prd) competitor to Leroy Merlin
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)

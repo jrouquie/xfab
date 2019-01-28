@@ -26,3 +26,4 @@ www.materiom.org/
 * [Leroy Merlin](http://leroymerlin.fr): some boards for the laser (wood, very limited choice of acrylic: no colors)
 * [Castorama](https://www.castorama.fr/panneau-medium-haute-densite-hdf-244-x-122-cm-ep-3-mm/3663602183358_CAFR.prd) competitor to Leroy Merlin
 * Embroidery: [Annika](https://www.annika.fr/), [Rascol](http://rascol.com/)
+* [Innovative materials](https://materio.com/)

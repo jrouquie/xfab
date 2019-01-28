@@ -66,6 +66,7 @@ Textile:
 [Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
 [Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
 [Textile speaker](https://vimeo.com/205792057)
+[Iris Van Herpen -3D print & laser](https://www.youtube.com/watch?time_continue=146&v=LOtV7pc4U1E)
 
 Robotic:
 [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)

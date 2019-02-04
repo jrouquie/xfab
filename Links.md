@@ -60,6 +60,7 @@
 [Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
 [Silicon](https://www.youtube.com/watch?time_continue=46&v=JIYb69iDeCI)
 [Liquid print](https://www.youtube.com/watch?v=FG_l1oacWoQ)
+[Volumic print](https://www.youtube.com/watch?v=jcwYFBeetH0)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

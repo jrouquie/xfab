@@ -10,7 +10,7 @@
 * Soft robots: [soft robotics](https://softroboticstoolkit.com/)
 * Furniture: [atFab](http://atfab.co/)
 * Ceramics: [Ceramic commons](http://ceramiccommons.com/downloads/)
-* Planter/ Beehive: https://www.osbeehives.com/collections/source-files
+* Planter/ Beehive: [OSBeehives](https://www.osbeehives.com/collections/source-files)
 
 ## Conception tools
 * [3D printed lithophane](http://3dp.rocks/lithophane/)

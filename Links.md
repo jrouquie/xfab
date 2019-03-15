@@ -154,6 +154,7 @@ Conference talks:
 * [wevolver](https://wevolver.us2.list-manage.com/subscribe/post?u=b9b8a21a2438fd4fbe17aa6a9&id=0313187a58)
 * [mashable](https://mashable.com/newsletters/?europe=true)
 * [3DHubs](https://www.3dhubs.com/)
+* [3DPrintingIndustry](https://3dprintingindustry.com/newsletter/)
 
 
 ## MOOCs

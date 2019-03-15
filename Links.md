@@ -23,13 +23,13 @@
 ## Inspirational videos (broadcasted on X-Fab screen)
 
 3-4-5D printing:
-*[Laser sintering](https://www.youtube.com/watch?v=rEfdO4p4SFc),
-*[3D print + laser](https://www.youtube.com/watch?v=SEaht2tQ8P8&t=2s),
-*[3D print + architecture](https://www.youtube.com/watch?v=PXImY6z1cKY),
-[3D print + architecture n°2](https://www.youtube.com/watch?v=4VUoG67cRt8),
-[Biology + 3D printing](https://www.youtube.com/watch?v=MfoSq_-v0k4),
-[Impression Gel](https://www.youtube.com/watch?time_continue=46&v=BhsRnLf9iNU),
-[Impression Gel n°2](https://www.youtube.com/watch?v=Bcfwb4eukKE),
+* [Laser sintering](https://www.youtube.com/watch?v=rEfdO4p4SFc),
+* [3D print + laser](https://www.youtube.com/watch?v=SEaht2tQ8P8&t=2s),
+* [3D print + architecture](https://www.youtube.com/watch?v=PXImY6z1cKY),
+* [3D print + architecture n°2](https://www.youtube.com/watch?v=4VUoG67cRt8),
+* [Biology + 3D printing](https://www.youtube.com/watch?v=MfoSq_-v0k4),
+* [Impression Gel](https://www.youtube.com/watch?time_continue=46&v=BhsRnLf9iNU),
+* [Impression Gel n°2](https://www.youtube.com/watch?v=Bcfwb4eukKE),
 [Soft robotics](https://www.youtube.com/watch?v=DfHehxz_-Hc),
 [Soft robotics n°2](https://www.youtube.com/watch?v=Ex5g9Suyt_k),
 [Soft robotics Hydraulic](https://www.youtube.com/watch?v=Ij_Od6cM0so),

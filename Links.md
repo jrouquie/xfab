@@ -30,39 +30,39 @@
 * [Biology + 3D printing](https://www.youtube.com/watch?v=MfoSq_-v0k4),
 * [Impression Gel](https://www.youtube.com/watch?time_continue=46&v=BhsRnLf9iNU),
 * [Impression Gel n°2](https://www.youtube.com/watch?v=Bcfwb4eukKE),
-[Soft robotics](https://www.youtube.com/watch?v=DfHehxz_-Hc),
-[Soft robotics n°2](https://www.youtube.com/watch?v=Ex5g9Suyt_k),
-[Soft robotics Hydraulic](https://www.youtube.com/watch?v=Ij_Od6cM0so),
-[Cornea printing](https://www.youtube.com/watch?v=7xoRe2OFNnI),
-[Bone graft printing](https://www.youtube.com/watch?v=6PS2CgmByNs),
-[Textile + 3D print](https://www.youtube.com/watch?v=gPFXciGoarI),
-[Flexible circuit 3Dprint](https://www.youtube.com/watch?v=oShku31xpWk&t=77s),
-[4D print dress](https://www.youtube.com/watch?v=wdRswasftfI),
-[4D print magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
-[4D print ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
-[5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
-[e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
-[Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)
-[Bioelectronics](https://www.youtube.com/watch?v=U2_zhpXZkS0&feature=youtu.be)
-[Animation Hydrophites](https://www.youtube.com/watch?v=e008jxkAQ-4)
-[BeAm](https://www.youtube.com/watch?v=Pjqysyy1ySs)
-[Metal printing + milling](https://www.youtube.com/watch?v=ALYMW7HrUtA)
-[3D print PCB](https://www.youtube.com/watch?time_continue=59&v=PeW1nURJ5ww)
-[Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
-[Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
-[Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
-[Magnet printing Heart](https://www.youtube.com/watch?v=Fy_xBKXITI4)
-[Thermoplastique electroformable Loma](https://www.youtube.com/watch?v=cApimMVc2BY)
-[3D printed instrument](https://www.youtube.com/watch?time_continue=63&v=xcLR6xwYpkA)
-[Solvent cast](https://www.youtube.com/watch?time_continue=39&v=z036i7xZPcg)
-[Spring print](https://www.youtube.com/watch?time_continue=55&v=kWE8AzJY8qc)
-[3D Painting](https://www.youtube.com/watch?time_continue=37&v=yZ9ApVHx7Ow)
-[Support Meshmixer](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
-[Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
-[Silicon](https://www.youtube.com/watch?time_continue=46&v=JIYb69iDeCI)
-[Liquid print](https://www.youtube.com/watch?v=FG_l1oacWoQ)
-[Volumic print](https://www.youtube.com/watch?v=jcwYFBeetH0)
-[Origami gripper](https://citymeo.fr/media/campaigns/videos/video_youtube_byqGFH6AZuk_WjV4lJi.mp4)
+* [Soft robotics](https://www.youtube.com/watch?v=DfHehxz_-Hc),
+* [Soft robotics n°2](https://www.youtube.com/watch?v=Ex5g9Suyt_k),
+* [Soft robotics Hydraulic](https://www.youtube.com/watch?v=Ij_Od6cM0so),
+* [Cornea printing](https://www.youtube.com/watch?v=7xoRe2OFNnI),
+* [Bone graft printing](https://www.youtube.com/watch?v=6PS2CgmByNs),
+* [Textile + 3D print](https://www.youtube.com/watch?v=gPFXciGoarI),
+* [Flexible circuit 3Dprint](https://www.youtube.com/watch?v=oShku31xpWk&t=77s),
+* [4D print dress](https://www.youtube.com/watch?v=wdRswasftfI),
+* [4D print magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
+* [4D print ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
+* [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
+* [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
+* [Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)
+* [Bioelectronics](https://www.youtube.com/watch?v=U2_zhpXZkS0&feature=youtu.be)
+* [Animation Hydrophites](https://www.youtube.com/watch?v=e008jxkAQ-4)
+* [BeAm](https://www.youtube.com/watch?v=Pjqysyy1ySs)
+* [Metal printing + milling](https://www.youtube.com/watch?v=ALYMW7HrUtA)
+* [3D print PCB](https://www.youtube.com/watch?time_continue=59&v=PeW1nURJ5ww)
+* [Independant dual extruder](https://youtu.be/Uo9wGzFq-uI)
+* [Communicating 3D printing](https://youtu.be/I0xJk6xjfd8)
+* [Fiberbot](https://www.youtube.com/watch?v=5Tubow3M-jM)
+* [Magnet printing Heart](https://www.youtube.com/watch?v=Fy_xBKXITI4)
+* [Thermoplastique electroformable Loma](https://www.youtube.com/watch?v=cApimMVc2BY)
+* [3D printed instrument](https://www.youtube.com/watch?time_continue=63&v=xcLR6xwYpkA)
+* [Solvent cast](https://www.youtube.com/watch?time_continue=39&v=z036i7xZPcg)
+* [Spring print](https://www.youtube.com/watch?time_continue=55&v=kWE8AzJY8qc)
+* [3D Painting](https://www.youtube.com/watch?time_continue=37&v=yZ9ApVHx7Ow)
+* [Support Meshmixer](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
+* [Transparent FDM](https://www.youtube.com/watch?time_continue=1&v=7LpQwnupQPU)
+* [Silicon](https://www.youtube.com/watch?time_continue=46&v=JIYb69iDeCI)
+* [Liquid print](https://www.youtube.com/watch?v=FG_l1oacWoQ)
+* [Volumic print](https://www.youtube.com/watch?v=jcwYFBeetH0)
+* [Origami gripper](https://citymeo.fr/media/campaigns/videos/video_youtube_byqGFH6AZuk_WjV4lJi.mp4)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

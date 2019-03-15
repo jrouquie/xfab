@@ -63,6 +63,7 @@
 * [Liquid print](https://www.youtube.com/watch?v=FG_l1oacWoQ)
 * [Volumic print](https://www.youtube.com/watch?v=jcwYFBeetH0)
 * [Origami gripper](https://citymeo.fr/media/campaigns/videos/video_youtube_byqGFH6AZuk_WjV4lJi.mp4)
+* [Handicap Ikea](https://citymeo.fr/gestion/campagne/e001eae0-7543-45f5-b40b-52b85e334284)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

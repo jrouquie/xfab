@@ -23,23 +23,23 @@
 ## Inspirational videos (broadcasted on X-Fab screen)
 
 3-4-5D printing:
-* [Laser sintering](https://www.youtube.com/watch?v=rEfdO4p4SFc),
-* [3D print + laser](https://www.youtube.com/watch?v=SEaht2tQ8P8&t=2s),
-* [3D print + architecture](https://www.youtube.com/watch?v=PXImY6z1cKY),
-* [3D print + architecture n°2](https://www.youtube.com/watch?v=4VUoG67cRt8),
+* [Laser sintering](https://www.youtube.com/watch?v=rEfdO4p4SFc)
+* [3D print + laser](https://www.youtube.com/watch?v=SEaht2tQ8P8&t=2s)
+* [3D print + architecture](https://www.youtube.com/watch?v=PXImY6z1cKY)
+* [3D print + architecture n°2](https://www.youtube.com/watch?v=4VUoG67cRt8)
 * [Biology + 3D printing](https://www.youtube.com/watch?v=MfoSq_-v0k4),
-* [Impression Gel](https://www.youtube.com/watch?time_continue=46&v=BhsRnLf9iNU),
-* [Impression Gel n°2](https://www.youtube.com/watch?v=Bcfwb4eukKE),
-* [Soft robotics](https://www.youtube.com/watch?v=DfHehxz_-Hc),
-* [Soft robotics n°2](https://www.youtube.com/watch?v=Ex5g9Suyt_k),
-* [Soft robotics Hydraulic](https://www.youtube.com/watch?v=Ij_Od6cM0so),
-* [Cornea printing](https://www.youtube.com/watch?v=7xoRe2OFNnI),
-* [Bone graft printing](https://www.youtube.com/watch?v=6PS2CgmByNs),
-* [Textile + 3D print](https://www.youtube.com/watch?v=gPFXciGoarI),
-* [Flexible circuit 3Dprint](https://www.youtube.com/watch?v=oShku31xpWk&t=77s),
-* [4D print dress](https://www.youtube.com/watch?v=wdRswasftfI),
-* [4D print magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM),
-* [4D print ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/),
+* [Impression Gel](https://www.youtube.com/watch?time_continue=46&v=BhsRnLf9iNU)
+* [Impression Gel n°2](https://www.youtube.com/watch?v=Bcfwb4eukKE)
+* [Soft robotics](https://www.youtube.com/watch?v=DfHehxz_-Hc)
+* [Soft robotics n°2](https://www.youtube.com/watch?v=Ex5g9Suyt_k)
+* [Soft robotics Hydraulic](https://www.youtube.com/watch?v=Ij_Od6cM0so)
+* [Cornea printing](https://www.youtube.com/watch?v=7xoRe2OFNnI)
+* [Bone graft printing](https://www.youtube.com/watch?v=6PS2CgmByNs)
+* [Textile + 3D print](https://www.youtube.com/watch?v=gPFXciGoarI)
+* [Flexible circuit 3Dprint](https://www.youtube.com/watch?v=oShku31xpWk&t=77s)
+* [4D print dress](https://www.youtube.com/watch?v=wdRswasftfI)
+* [4D print magnetic](https://www.youtube.com/watch?v=MUt1YKtn6kM)
+* [4D print ferromagnetic](https://www.facebook.com/nature/videos/10155899514573167/)
 * [5D printer](https://www.youtube.com/watch?v=5z2dk0H5mZU&t=38s)
 * [e-Nable](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
 * [Colloid](https://www.youtube.com/watch?v=HDazwyV2zPg&feature=youtu.be)

@@ -178,3 +178,6 @@ Conference talks:
 * [Fabricademy](https://textile-academy.org/)
 * [Prusa research](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg)
 
+## Design tips
+
+ * [Designing FDM parts](https://all3dp.com/2/how-to-design-parts-for-fdm-3d-printing/) 

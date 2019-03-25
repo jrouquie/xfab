@@ -64,6 +64,7 @@
 * [Volumic print](https://www.youtube.com/watch?v=jcwYFBeetH0)
 * [Origami gripper](https://www.youtube.com/watch?v=byqGFH6AZuk)
 * [Handicap Ikea](https://www.youtube.com/watch?v=a0PA_VpLlDw)
+* [3D printed organic matter](https://www.youtube.com/watch?v=14flotuAzfY)
 
 Textile:
 [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),

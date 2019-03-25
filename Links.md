@@ -67,7 +67,7 @@
 * [3D printed organic matter](https://www.youtube.com/watch?v=14flotuAzfY)
 
 Textile:
-* [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
+* [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)
 * [Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
 * [Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
 * [Textile speaker](https://vimeo.com/205792057)
@@ -83,16 +83,16 @@ Microfluidics:
 * [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)
 
 Materials:
-* [Metamateriaux](https://www.youtube.com/watch?v=lsTiWYSfPck),
-* [Metamateriaux n°2](https://www.youtube.com/watch?v=5wpRszZZhYQ),
+* [Metamateriaux](https://www.youtube.com/watch?v=lsTiWYSfPck)
+* [Metamateriaux n°2](https://www.youtube.com/watch?v=5wpRszZZhYQ)
 * [Auxetic](https://www.youtube.com/watch?v=ekJrBgti7zw)
 
 Laser:
 * [Laser Paper](https://www.youtube.com/watch?v=ECL1kO6Cs2o)
 
 Mecatronics:
-* [Mecanique Encoder](https://www.youtube.com/watch?v=CHE1imH9tdg),
-* [Planetary gear](https://www.youtube.com/watch?v=6X7TfOdVzpk&t=477s),
+* [Mecanique Encoder](https://www.youtube.com/watch?v=CHE1imH9tdg)
+* [Planetary gear](https://www.youtube.com/watch?v=6X7TfOdVzpk&t=477s)
 * [Stepper](https://www.youtube.com/watch?v=eyqwLiowZiU)
 
 Electronics:
@@ -107,12 +107,12 @@ CNC:
 * [Gcode](https://all3dp.com/g-code-tutorial-3d-printer-gcode-commands/?omhide=true&utm_source=Newsletter&utm_campaign=7f59cde5ee-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-7f59cde5ee-400535557)
 
 Softwares:
-* [Slicer for Fusion](https://www.youtube.com/watch?v=jIlvMttdtbw),
-* [Stl](https://www.youtube.com/watch?v=1IIYZloCPSA),
-* [Logiciels 3D Vectary](https://www.youtube.com/watch?v=pdpk9PToZ-U),
-* [Logiciels 3D Fusion360](https://www.youtube.com/watch?v=beebJ6fgVPo), 
-* [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg),
-* [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s),
+* [Slicer for Fusion](https://www.youtube.com/watch?v=jIlvMttdtbw)
+* [Stl](https://www.youtube.com/watch?v=1IIYZloCPSA)
+* [Logiciels 3D Vectary](https://www.youtube.com/watch?v=pdpk9PToZ-U)
+* [Logiciels 3D Fusion360](https://www.youtube.com/watch?v=beebJ6fgVPo)
+* [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg)
+* [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s)
 * [Optimization](https://www.youtube.com/watch?v=Yl2yluS7-_c)
 
 Drones:

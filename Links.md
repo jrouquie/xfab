@@ -67,73 +67,73 @@
 * [3D printed organic matter](https://www.youtube.com/watch?v=14flotuAzfY)
 
 Textile:
-[Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
-[Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
-[Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
-[Textile speaker](https://vimeo.com/205792057)
-[Iris Van Herpen -3D print & laser](https://www.youtube.com/watch?time_continue=146&v=LOtV7pc4U1E)
+* [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA),
+* [Flexible circuit textile](https://www.youtube.com/watch?v=oShku31xpWk)
+* [Intelligent textiles](https://www.youtube.com/watch?v=3FctBCRhZQw)
+* [Textile speaker](https://vimeo.com/205792057)
+* [Iris Van Herpen -3D print & laser](https://www.youtube.com/watch?time_continue=146&v=LOtV7pc4U1E)
 
 Robotic:
-[Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)
-[Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
-[Large kinetic with platic bottles](https://www.youtube.com/watch?time_continue=207&v=uqOLVrR7FTo)
-[Laminar jamming](https://www.youtube.com/watch?v=I6HZAHoPwqc)
+* [Origami](https://www.youtube.com/watch?v=ZVYz7g-qLjs)
+* [Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
+* [Large kinetic with platic bottles](https://www.youtube.com/watch?time_continue=207&v=uqOLVrR7FTo)
+* [Laminar jamming](https://www.youtube.com/watch?v=I6HZAHoPwqc)
 
 Microfluidics:
-[Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)
+* [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)
 
 Materials:
-[Metamateriaux](https://www.youtube.com/watch?v=lsTiWYSfPck),
-[Metamateriaux n°2](https://www.youtube.com/watch?v=5wpRszZZhYQ),
-[Auxetic](https://www.youtube.com/watch?v=ekJrBgti7zw)
+* [Metamateriaux](https://www.youtube.com/watch?v=lsTiWYSfPck),
+* [Metamateriaux n°2](https://www.youtube.com/watch?v=5wpRszZZhYQ),
+* [Auxetic](https://www.youtube.com/watch?v=ekJrBgti7zw)
 
 Laser:
-[Laser Paper](https://www.youtube.com/watch?v=ECL1kO6Cs2o)
+* [Laser Paper](https://www.youtube.com/watch?v=ECL1kO6Cs2o)
 
 Mecatronics:
-[Mecanique Encoder](https://www.youtube.com/watch?v=CHE1imH9tdg),
-[Planetary gear](https://www.youtube.com/watch?v=6X7TfOdVzpk&t=477s),
-[Stepper](https://www.youtube.com/watch?v=eyqwLiowZiU)
+* [Mecanique Encoder](https://www.youtube.com/watch?v=CHE1imH9tdg),
+* [Planetary gear](https://www.youtube.com/watch?v=6X7TfOdVzpk&t=477s),
+* [Stepper](https://www.youtube.com/watch?v=eyqwLiowZiU)
 
 Electronics:
-[Printing electronics](https://www.youtube.com/watch?v=2qg5BXH1mPs&t=127s)
-[Electronic paint](https://www.youtube.com/watch?v=dKFRweXei90)
+* [Printing electronics](https://www.youtube.com/watch?v=2qg5BXH1mPs&t=127s)
+* [Electronic paint](https://www.youtube.com/watch?v=dKFRweXei90)
 
 Prototyping spaces:
-[MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)
+* [MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)
 
 CNC:
-[CNC](https://www.youtube.com/watch?v=Xo0CiJjTGJE&t=36s)
-[Gcode](https://all3dp.com/g-code-tutorial-3d-printer-gcode-commands/?omhide=true&utm_source=Newsletter&utm_campaign=7f59cde5ee-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-7f59cde5ee-400535557)
+* [CNC](https://www.youtube.com/watch?v=Xo0CiJjTGJE&t=36s)
+* [Gcode](https://all3dp.com/g-code-tutorial-3d-printer-gcode-commands/?omhide=true&utm_source=Newsletter&utm_campaign=7f59cde5ee-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-7f59cde5ee-400535557)
 
 Softwares:
-[Slicer for Fusion](https://www.youtube.com/watch?v=jIlvMttdtbw),
-[Stl](https://www.youtube.com/watch?v=1IIYZloCPSA),
-[Logiciels 3D Vectary](https://www.youtube.com/watch?v=pdpk9PToZ-U),
-[Logiciels 3D Fusion360](https://www.youtube.com/watch?v=beebJ6fgVPo), 
-[Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg),
-[G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s),
-[Optimization](https://www.youtube.com/watch?v=Yl2yluS7-_c)
+* [Slicer for Fusion](https://www.youtube.com/watch?v=jIlvMttdtbw),
+* [Stl](https://www.youtube.com/watch?v=1IIYZloCPSA),
+* [Logiciels 3D Vectary](https://www.youtube.com/watch?v=pdpk9PToZ-U),
+* [Logiciels 3D Fusion360](https://www.youtube.com/watch?v=beebJ6fgVPo), 
+* [Logiciels 3D Slash](https://www.youtube.com/watch?v=7DUVoW7siYg),
+* [G-Code](https://www.youtube.com/watch?v=r5bimWKeMbY&t=21s),
+* [Optimization](https://www.youtube.com/watch?v=Yl2yluS7-_c)
 
 Drones:
-[Lego](https://youtu.be/_fZRF9fvoOk)
-[3D printing drone](https://video.dailymail.co.uk/video/1418450360/2014/05/1418450360_3547102603001_Prinitng-helicopter.mp4)
+* [Lego](https://youtu.be/_fZRF9fvoOk)
+* [3D printing drone](https://video.dailymail.co.uk/video/1418450360/2014/05/1418450360_3547102603001_Prinitng-helicopter.mp4)
 
 Molding/Casting:
-[3D molds](https://www.youtube.com/watch?time_continue=184&v=7M2TbQnRLNg)
+* [3D molds](https://www.youtube.com/watch?time_continue=184&v=7M2TbQnRLNg)
 
 IoT:
-[Blynk platform](https://www.youtube.com/watch?v=hipyrhJIgGk)
+* [Blynk platform](https://www.youtube.com/watch?v=hipyrhJIgGk)
 
 Drawbots:
-[Heart](https://www.youtube.com/watch?v=tDk_mtMQXWQ)
-[Vertical](https://www.youtube.com/watch?v=gOfilYT365M)
+* [Heart](https://www.youtube.com/watch?v=tDk_mtMQXWQ)
+* [Vertical](https://www.youtube.com/watch?v=gOfilYT365M)
 
 Numerical art:
-[Processing](https://www.youtube.com/watch?v=IR63rgMqClE)
+* [Processing](https://www.youtube.com/watch?v=IR63rgMqClE)
 
 Conference talks:
-[CES](http://live.ces.tech/)
+* [CES](http://live.ces.tech/)
 
 ## Publications & labs
 

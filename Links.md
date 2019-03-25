@@ -4,7 +4,7 @@
 
 ## Free designs
 * Inspiration: [pinterest](https://www.pinterest.fr/), [Ouiaremakers](https://ouiaremakers.com/)
-* Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 
+
 * 2D design: [thenounproject](https://thenounproject.com/)
 * 3D print: [Thingiverse](https://www.thingiverse.com/) watch out some design can be customized, [cults3D](https://cults3d.com/fr)
 * Soft robots: [soft robotics](https://softroboticstoolkit.com/)
@@ -14,6 +14,7 @@
 
 ## Conception tools
 * [3D printed lithophane](http://3dp.rocks/lithophane/)
+* Laser: [boxes.py](https://www.festi.info/boxes.py/), [makercase](http://www.makercase.com/), [geargenerator](http://www.geargenerator.com), 
 * [metamaterials](http://johannes.frohnhofen.com/metamaterial-mechanisms/)
 * [circuits](https://www.circuito.io/)
 * [IoT](https://www.blynk.cc/)

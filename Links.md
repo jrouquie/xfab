@@ -172,6 +172,7 @@ Conference talks:
 * [Monsieur Bidouille](https://www.youtube.com/user/monsieurbidouille)
 * [The Beauty and the Bolt](https://www.youtube.com/channel/UCRCFFTRNzbAAONw9vQ3lXdg/)
 * [Adafruit](https://www.youtube.com/user/adafruit/featured)
+* [Fictiv](https://www.youtube.com/playlist?list=PL6ocPzovL66GrsfERNYme5YB8FpPGGGox)
 
 ## Websites
 

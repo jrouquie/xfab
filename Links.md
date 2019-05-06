@@ -69,6 +69,7 @@
 * [Compliant mechanisms](https://www.youtube.com/watch?v=IUe3mGkngs4)
 * [3D printed unsmashable guitar](https://www.youtube.com/watch?time_continue=102&v=4TKXvyYxoVw)
 * [Liquid sole printing](https://www.youtube.com/watch?v=2_Mz8saTcRI)
+* [Vascular printing](https://www.youtube.com/watch?v=GqJYMgAcc0Q)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)

@@ -70,6 +70,7 @@
 * [3D printed unsmashable guitar](https://www.youtube.com/watch?time_continue=102&v=4TKXvyYxoVw)
 * [Liquid sole printing](https://www.youtube.com/watch?v=2_Mz8saTcRI)
 * [Vascular printing](https://www.youtube.com/watch?v=GqJYMgAcc0Q)
+* [Friction welding of prints](https://www.youtube.com/watch?time_continue=242&v=Cj9TMmUldhc)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)

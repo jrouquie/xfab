@@ -71,6 +71,7 @@
 * [Liquid sole printing](https://www.youtube.com/watch?v=2_Mz8saTcRI)
 * [Vascular printing](https://www.youtube.com/watch?v=GqJYMgAcc0Q)
 * [Friction welding of prints](https://www.youtube.com/watch?time_continue=242&v=Cj9TMmUldhc)
+* [Threads & 3D prints](https://www.youtube.com/watch?v=iR6OBlSzp7I&feature=youtu.be)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)

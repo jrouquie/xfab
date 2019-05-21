@@ -72,6 +72,7 @@
 * [Vascular printing](https://www.youtube.com/watch?v=GqJYMgAcc0Q)
 * [Friction welding of prints](https://www.youtube.com/watch?time_continue=242&v=Cj9TMmUldhc)
 * [Threads & 3D prints](https://www.youtube.com/watch?v=iR6OBlSzp7I&feature=youtu.be)
+* [Noise cancellation Metamaterials](https://www.youtube.com/watch?time_continue=14&v=Fd1D42dVxS0)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)
@@ -106,6 +107,7 @@ Electronics:
 * [Printing electronics](https://www.youtube.com/watch?v=2qg5BXH1mPs&t=127s)
 * [Electronic paint](https://www.youtube.com/watch?v=dKFRweXei90)
 
+
 Prototyping spaces:
 * [MakerTour](https://www.youtube.com/watch?v=qO07sLk-en4)
 
@@ -125,6 +127,7 @@ Softwares:
 Drones:
 * [Lego](https://youtu.be/_fZRF9fvoOk)
 * [3D printing drone](https://video.dailymail.co.uk/video/1418450360/2014/05/1418450360_3547102603001_Prinitng-helicopter.mp4)
+* [Floating pingouins](https://www.youtube.com/watch?v=jPGgl5VH5go)
 
 Molding/Casting:
 * [3D molds](https://www.youtube.com/watch?time_continue=184&v=7M2TbQnRLNg)

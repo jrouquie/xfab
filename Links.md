@@ -74,6 +74,7 @@
 * [Friction welding of prints](https://www.youtube.com/watch?time_continue=242&v=Cj9TMmUldhc)
 * [Threads & 3D prints](https://www.youtube.com/watch?v=iR6OBlSzp7I&feature=youtu.be)
 * [Noise cancellation Metamaterials](https://www.youtube.com/watch?time_continue=14&v=Fd1D42dVxS0)
+* [Auxetic multimaterial](https://www.youtube.com/watch?v=XP5Fk-lHvK0)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)

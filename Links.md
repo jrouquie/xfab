@@ -20,6 +20,7 @@
 * [IoT](https://www.blynk.cc/)
 * [Topological optimization](http://www.topopt.mek.dtu.dk/apps-and-software)
 * [Giant bottle structures](https://hpi.de/baudisch/projects/trussfab.html)
+* [Kirigami auxetic](http://fab.academany.org/2018/labs/fablabulb/ga_digital_mechanics.html)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 

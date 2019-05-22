@@ -97,6 +97,7 @@ Materials:
 
 Laser:
 * [Laser Paper](https://www.youtube.com/watch?v=ECL1kO6Cs2o)
+* [Auxetic](https://www.youtube.com/watch?v=dVge8FHcIbI)
 
 Mecatronics:
 * [Mecanique Encoder](https://www.youtube.com/watch?v=CHE1imH9tdg)

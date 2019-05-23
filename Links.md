@@ -88,6 +88,7 @@ Robotic:
 * [Lego](https://www.youtube.com/watch?v=z7-4g-XWHM4)
 * [Large kinetic with platic bottles](https://www.youtube.com/watch?time_continue=207&v=uqOLVrR7FTo)
 * [Laminar jamming](https://www.youtube.com/watch?v=I6HZAHoPwqc)
+* [Compliant mecanisms](https://youtu.be/97t7Xj_iBv0)
 
 Microfluidics:
 * [Microfluidique](https://www.youtube.com/watch?v=yiNS25kxQIE)

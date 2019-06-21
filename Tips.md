@@ -69,6 +69,11 @@ Select Custm3  and tune the following parameters:
 
  [Polypropylene loaded with glassfiber](http://www.ocvreinforcements.com/pdf/library/XSTRAND_3D_Range_product_sheet_Rev2_January_2018.pdf) was successfully printed with an UpBox
 
+## Markforged
+Turbo support worked for me and is slightly cheaper in material.
+If printing threads: if possible, prefer to print the hole rather than the screw. If you use support, it will add support between ridges, which needs to be removed with a die (or tediously, with a box cutter).
+
+
 ## Wood-loaded PLA printing
 
 ## CIF CNC

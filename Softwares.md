@@ -1,12 +1,19 @@
 
 ## CAO
-* SolidWorks
-* Fusion 360 -Free licences for students
-* [OpenScad](http://openscad.org/)
-* [Blender](https://www.blender.org/) -more geared towards 3D animation, but can export .stl.
-* Rhinoceros (Grasshopper embedded)
-* Catia v5 + iCEM Surf - [Free licences for students until mi-November](https://academy.3ds.com/en/software/catia-v5-student-edition)
+* SolidWorks: direct and parametric, allows simulation
+* Fusion 360: direct and parametric. Free licences for students. plugins for CNC or slicer
+* [OpenScad](http://openscad.org/) opensource, parametric. 
+* FreeCad: opensource, brittle GUI, good python integration
+* Onshape: parametric, cloud only, free for public projects
+* [Blender](https://www.blender.org/). Opensource. More geared towards 3D animation. Good for sculpting organic shapes with the mouse. Many plugins.
+* Rhinoceros: direct. Grasshopper add-on allows parametric through bloc code. Many plugins. Min 120$/year.
+* Catia v5 + iCEM Surf - [Free licences for students until mi-November](https://academy.3ds.com/en/software/catia-v5-student-edition). Allows simulation.
 * Abaqus - [Free licences for students](https://academy.3ds.com/en/software/abaqus-student-edition)
+* 3D slash. voxels based (think Minecraft), for beginners only.
+* Vectary: direct and parametric, open source, cloud based.
+* Blockscad, Tinkercad, 
+
+See also [CAO.pdf](CAO.pdf)
 
 ## Topological optimization
 * Generate Frustum -100 topological optimizations/months

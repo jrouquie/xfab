@@ -18,7 +18,8 @@ http://www.kobakant.at/DIY/
 
 ## Self made
 
-www.materiom.org/
+www.materiom.org
+www.preciousplastic.com
 
 # Where to buy
 * [Matieres à graver](http://matieres-a-graver.fr/) Needs to create a pro account (pro email, Kbis, phone interview). More expensive than Leroy Merlin. Large choice. Owned by Trotec, thus guaranteed compatibility with their machines. Min order 40€.
